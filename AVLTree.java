@@ -132,3 +132,30 @@ public class AVLTree {
     }
 }
 
+
+
+
+#output 
+Height after inserting 3 is 0
+Height after inserting 2 is 1
+Height after inserting 1 is 2
+Height after inserting 4 is 2
+Height after inserting 5 is 3
+Height after inserting 6 is 4
+Height after inserting 7 is 5
+Height after inserting 16 is 6
+Height after inserting 15 is 7
+Height after inserting 14 is 8
+Height after inserting 13 is 9
+Height after inserting 12 is 10
+Height after inserting 11 is 11
+Height after inserting 10 is 12
+Height after inserting 8 is 13
+Height after inserting 9 is 14
+In-order traversal of the AVL tree: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+In-order traversal after deleting 13: 
+1 2 3 4 5 6 7 8 9 10 11 12 14 15 16
+
+    
+
